@@ -1,4 +1,4 @@
-# AI Excel 数据分析助手
+# Excel 数据分析助手
 
 基于 Python、Pandas、Streamlit 和大语言模型 API 开发的智能数据分析工具，支持 Excel/CSV 文件上传、数据质量检测、数据清洗、统计分析、数据可视化、AI 智能问答和 PDF 报告导出。
 
